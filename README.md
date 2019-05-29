@@ -2,7 +2,7 @@
 Bilgisayar ve kullanıcı arasında oynanan bir sayı tahmin oyunudur.
 ## Kurulum
 
-1. Programı oluşturan kod sayfaları klasör olarak bilgisayara indirilir veya kurulur. Bunun için 'releases' sayfasından projenin ilk versiyonunu bilgisayaranıza indirmeniz yeterlidir.
+1. Programı oluşturan kod sayfaları klasör olarak bilgisayara indirilir veya kurulur. Bunun için '**releases**' sayfasından projenin ilk versiyonunu bilgisayaranıza indirmeniz yeterlidir.
 2. Klasörün içindeki *TestProject.exe* dosyasının çalıştırılması halinde program kullanılmak için çalışmaya başlar. *(...\TestProject\TestProject\bin\Debug\TestProject.exe)*
 > Programın kurulumunda herhangi bir veritabanı kullanımı gerekmemektedir.
 
